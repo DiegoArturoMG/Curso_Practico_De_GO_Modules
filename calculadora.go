@@ -7,6 +7,7 @@ import (
 	"strconv"
 )
 
+
 type Calc struct {
 	e1 int
 	e2 int
